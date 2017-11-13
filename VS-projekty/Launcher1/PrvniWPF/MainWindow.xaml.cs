@@ -21,6 +21,7 @@ using System.Xml.Linq;
 using System.Xml;
 using System.Windows.Forms;
 using System.Windows.Controls.Primitives;
+using Microsoft.VisualBasic;
 
 namespace PrvniWPF
 {
